@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GymTeachingSystem.dll", "GymTeachingSystemService.dll\GymTeachingSystem.dll.csproj", "{E7D66D51-06E1-4909-A992-2E202C5C2269}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GymTeachingSystemApp", "GymTeachingSystemApp\GymTeachingSystemApp.csproj", "{AA3BFDCA-F0D0-41E3-B5F6-A4AD779C8BA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7D66D51-06E1-4909-A992-2E202C5C2269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7D66D51-06E1-4909-A992-2E202C5C2269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7D66D51-06E1-4909-A992-2E202C5C2269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7D66D51-06E1-4909-A992-2E202C5C2269}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA3BFDCA-F0D0-41E3-B5F6-A4AD779C8BA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA3BFDCA-F0D0-41E3-B5F6-A4AD779C8BA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA3BFDCA-F0D0-41E3-B5F6-A4AD779C8BA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA3BFDCA-F0D0-41E3-B5F6-A4AD779C8BA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4B8D334-2EC7-41D7-942B-45A2C7892853}
+	EndGlobalSection
+EndGlobal
